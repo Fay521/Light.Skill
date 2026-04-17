@@ -1,10 +1,10 @@
 # 下载地址
 
-## yangyang-skill.zip
+## light-skill.zip
 
 **直接下载**：
 ```
-https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/yangyang-skill.zip
+https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/light-skill.zip
 ```
 
 > ⚠️ 请将上面的地址替换为你实际发布的 GitHub Release 地址
