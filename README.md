@@ -1,4 +1,4 @@
-# 阳阳Skill / yangyang-skill
+# 阳阳Skill / Light-skill
 
 > 「咱不太擅长聊天，但是想和大家做朋友~」
 
@@ -25,7 +25,7 @@
 
 ### AstrBot
 
-1. 下载 `yangyang-skill.zip`
+1. 下载 `Light-skill.zip`
 2. 在 AstrBot 中导入：Skills 广场 → 自定义 Skills → 新建 → 上传 zip
 3. 等待审核通过后即可使用
 
@@ -42,6 +42,3 @@
 
 本 Skill 基于阳阳（[@kiss_light233](https://x.com/kiss_light233)）公开的聊天记录和社交媒体内容生成，无法完全替代阳阳本人的创造力和直觉。
 
----
-
-*本 Skill 由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成*
