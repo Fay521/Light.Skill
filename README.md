@@ -1,7 +1,7 @@
 # 阳阳Skill / Light-skill
 
 > 「咱不太擅长聊天，但是想和大家做朋友~」
-> [点击这里可以试用呢](https://chatgpt.com/g/g-69e31d397f4c8191a855ddff80b432bd-yang-yang-skill "点击跳转")
+ [点击这里可以试用哦！](https://chatgpt.com/g/g-69e31d397f4c8191a855ddff80b432bd-yang-yang-skill "点击跳转")
 
 ## 简介
 
